@@ -1,0 +1,3 @@
+interface Vegetable {
+    boolean hasARoot();
+}
